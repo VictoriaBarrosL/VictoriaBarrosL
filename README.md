@@ -7,7 +7,7 @@ The programming universe has become a passion and knowing more about it every da
 Among the technologies and tools that i know and improve on are:
  <br>
  <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> &emsp; <img
 
 ![Snake animation](https://github.com/VictoriaBarrosL/VictoriaBarrosL/blob/output/github-contribution-grid-snake.svg)
 

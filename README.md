@@ -4,10 +4,7 @@ I'm Victoria, a currently a student of Software Analysis and Development and I a
 
 The programming universe has become a passion and knowing more about it every day is incredible, so I look for opportunities where I can exercise and improve my knowledge acquired so far.
 
-Among the technologies and tools that i know and improve on are:
- <br>
- <br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40"/> &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> &emsp; <img
+
 
 ![Snake animation](https://github.com/VictoriaBarrosL/VictoriaBarrosL/blob/output/github-contribution-grid-snake.svg)
 

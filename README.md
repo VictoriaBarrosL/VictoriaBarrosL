@@ -1,6 +1,6 @@
 ### Hi there! :blush:
 
-I'm Victoria, a currently a student of Software Analysis and Development and I am professionaling myself with several immersive courses that address technologies and project development in C#.
+I'm Victoria, a currently a student of Software Analysis and Development and I am professionaling myself with several immersive courses that address technologies and project development in Java.
 
 The programming universe has become a passion and knowing more about it every day is incredible, so I look for opportunities where I can exercise and improve my knowledge acquired so far.
 
